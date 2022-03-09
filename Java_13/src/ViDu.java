@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class ViDu {
 	public static void main(String[] args) {
+		
+		
 		Scanner sc = new Scanner(System.in);
 		float a;
 		System.out.println("nhap so a : ");
@@ -22,3 +24,5 @@ public class ViDu {
 
 	}
 }
+		
+		

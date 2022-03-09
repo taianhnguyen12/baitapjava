@@ -1,3 +1,9 @@
+/* Bài 6:(do –while)
+Viết chương trình nhập vào 1 số nguyên dương
+bất kỳ từ bàn phím. Sau đó tính và in ra giai thừa
+của số đó. */
+
+
 package ch2_bai6;
 
 import java.util.Scanner;

@@ -23,5 +23,4 @@ public class Vidu {
 		System.out.println("sqrt(a)" + Math.sqrt(a));
 		//ham tinh a mũ b pow
 		System.out.println("pow(a,b)" +Math.pow(a, b));
-}
-}
+}x

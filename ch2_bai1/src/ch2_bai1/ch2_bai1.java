@@ -1,3 +1,11 @@
+/*Nhập vào 2 số bất kỳ từ bàn phím và thực hiện các
+yêu cầu sau:
+1. Tính tổng, hiệu, tích, thương, chia lấy dư của 2
+số đó.
+2. Sử dụng các toán tử so sánh đã học để so
+sánh 2 số đó.  */
+
+
 package ch2_bai1;
 
 import java.util.Scanner;
@@ -29,7 +37,7 @@ public class ch2_bai1 {
 // tăng lên 1 đơn vị //giảm 1 đơn vị
 		System.out.println("a " + a++);
 		System.out.println("a++ " + a);
-		System.out.println("--b " + --a);
+		System.out.println("--a " + --a);
 		System.out.println("b " + b++);
 		System.out.println("b++ " + b);
 		System.out.println("--b" + --b);
@@ -41,7 +49,7 @@ public class ch2_bai1 {
 		System.out.println(a + "<=" + b + ":" + (a <= b));
 //Toán tử logic
 		System.out.println(a > b && b < a);
-		System.out.println(a > b || b < a);
+		System.out.println(a > b || b > a);
 		System.out.println(!(a > b));
 //toán tử điều khiển 
 		System.out.println((a > b) ? true : false);
